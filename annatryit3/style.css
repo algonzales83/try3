@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+
+header {
+    background-color: #2f6771;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    width:80%;
+     margin: 0px auto;
+}
+
+.box {
+    background-color:#eaf4fe;
+
+    /*content*/
+    padding: 10px;
+    
+    /*outside (space inside) */
+    padding: 30px;
+
+    /* around */
+    border: 2px solid #c0e7ff;
+
+    /* outside (space outside) */
+    margin-bottom: 30px;
+}
+
+    
+
+
+
+  
